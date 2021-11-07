@@ -2,9 +2,9 @@
 
 This application is a small side project created to illustrate a series of articles about React that I started to write in november of 2021. 
 
-You can find these articles written in spanish in my dev.to profile: [https://dev.to/adriangube](https://dev.to/adriangube)
+You can find these articles written in *spanish* in my dev.to profile: [https://dev.to/adriangube](https://dev.to/adriangube)
 
-And written in english in my medium.com profile: [https://medium.com/@adriangube](https://medium.com/@adriangube)
+And written in *english* in my medium.com profile: [https://medium.com/@adriangube](https://medium.com/@adriangube)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
